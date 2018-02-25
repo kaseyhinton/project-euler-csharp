@@ -12,6 +12,7 @@ namespace project_euler
             Problem1.Solve();
             Problem2.Solve();
             Problem3.Solve();
+            Problem4.Solve();
             Console.ReadLine();
         }
     }
