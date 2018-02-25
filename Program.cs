@@ -11,6 +11,7 @@ namespace project_euler
             Console.WriteLine("Project Euler");
             Problem1.Solve();
             Problem2.Solve();
+            Problem3.Solve();
             Console.ReadLine();
         }
     }
