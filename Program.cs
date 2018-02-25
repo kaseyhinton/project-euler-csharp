@@ -10,6 +10,7 @@ namespace project_euler
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Project Euler");
             Problem1.Solve();
+            Problem2.Solve();
             Console.ReadLine();
         }
     }
